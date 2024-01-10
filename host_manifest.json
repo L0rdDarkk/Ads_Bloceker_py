@@ -1,0 +1,10 @@
+{
+    "name": "albania_ads_blocker_host",
+    "description": "Native messaging host for Albania Ads Blocker",
+    "path": "/Users/apple/Documents/Web_blocker/main.block.v1.py", 
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://YOUR_EXTENSION_ID/"  // id extension ne google chrome
+    ]
+  }
+  
