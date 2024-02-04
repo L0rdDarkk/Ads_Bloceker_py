@@ -1,5 +1,5 @@
 Dark Blocker by L0rdDarkk
-[https://github.com/L0rdDarkk/Ads_Blocker_py/blob/07ca0ea91ea88e085c68027afbe50b1a19744b50/ads_blocker.png]
+[[https://github.com/L0rdDarkk/Ads_Blocker_py/blob/07ca0ea91ea88e085c68027afbe50b1a19744b50/ads_blocker.png]](https://raw.githubusercontent.com/L0rdDarkk/Ads_Blocker_py/07ca0ea91ea88e085c68027afbe50b1a19744b50/ads_blocker.png)
 
 Description:
 Dark Blocker is a browser extension designed to enhance your web browsing experience by blocking ads on Albanian websites. Developed by L0rdDarkk, this extension leverages a combination of Python and JavaScript to provide an efficient ad-blocking solution. The extension uses a native messaging host to communicate with a Python script, enabling seamless ad-blocking functionality while browsing Albanian websites.
